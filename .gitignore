@@ -1,0 +1,13 @@
+node_modules
+dist
+.npmrc
+.bench-cache
+.vscode
+.temp
+
+# No dependencies so no lock file requirement
+package-lock.json
+yarn.lock
+bun.lock
+docs/dist
+*.tsbuildinfo
